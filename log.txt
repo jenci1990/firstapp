@@ -1,0 +1,24 @@
+{
+	"userid": "1518334250954",
+	"command": "vs_install",
+	"version": "0.440 2018-11-13",
+	"tick": 125,
+	"session": "2018-11-13 18:18:55",
+	"name": "start",
+	"username": "jenci",
+	"framework_version": "4.7.1",
+	"memory": "2091 MG/8136 MB",
+	"free_space": "289032 MB/456885 MB",
+	"x64_os": true,
+	"install_path": "C:/Users/jenci/AppData/Roaming",
+	"installed_version": "0.439 2018-10-25"
+}
+{
+	"userid": "1518334250954",
+	"command": "vs_install",
+	"version": "0.440 2018-11-13",
+	"tick": 4187,
+	"session": "2018-11-13 18:18:55",
+	"name": "result",
+	"install_result": "UserExited"
+}
